@@ -1,4 +1,4 @@
-package algorithms;
+package alorithms.recursion;
 
 public class Factorial {
   // Write two functions that finds the factorial of any number.
